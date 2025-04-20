@@ -1,1 +1,1 @@
-// starting dsa question 
+console.log("hello world");
