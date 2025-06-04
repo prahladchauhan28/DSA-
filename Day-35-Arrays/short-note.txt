@@ -1,0 +1,9 @@
+Que. What is an array?
+=> It is data structure that allows you to store multiple value in a single variable,
+   organized in a ordered collection, where each value is accessiable by its index.
+
+   operation in array:
+  =>.push() -> insert element from last.
+  =>.pop() ->delete element from last.
+  =>.shift() ->delete element from start.
+  =>.unshift() -> insert element from start.
