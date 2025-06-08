@@ -1,0 +1,30 @@
+Time Complexity Growth (As n increases)
+|
+|                                                               O(2^n)
+|                                                      *
+|                                             *
+|                                     *
+|                             O(n^2)  *
+|                      *     
+|              O(n log n) *
+|          *      
+|      O(n) *
+|   *
+| O(log n)
+|*
+|__________________________ Input Size (n) _______________________________➝
+ O(1)
+
+
+-----------------------------------------------------------------------------------
+ O(1): Constant – flat line; no growth.
+
+O(log n): Logarithmic – very slow growth.
+
+O(n): Linear – steady growth.
+
+O(n log n): Slightly faster than linear.
+
+O(n²): Quadratic – grows fast with input size.
+
+O(2ⁿ): Exponential – becomes impractical very quickly.

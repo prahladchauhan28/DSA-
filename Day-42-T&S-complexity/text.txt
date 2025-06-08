@@ -1,0 +1,23 @@
+🕒Time and Space Complexity
+
+#Time Complexity
+Time complexity refers to the amount of time an algorithm takes to run as a function of the input size n. It helps analyze and compare algorithm efficiency. It's commonly expressed using Big O notation:
+
+O(1): Constant time – independent of input size
+
+O(log n): Logarithmic time – efficient, like binary search
+
+O(n): Linear time – time grows proportionally with input
+
+O(n²): Quadratic time – common in nested loops (e.g., bubble sort)
+
+O(2ⁿ): Exponential time – grows very fast, not efficient for large input
+
+#Space Complexity
+Space complexity refers to the amount of memory used by an algorithm in terms of input size. It includes both input data and auxiliary memory used by the algorithm.
+
+Example: A loop that stores data in an array has O(n) space complexity.
+
+Efficient algorithms aim to minimize both time and space usage.
+
+👉 Both complexities help in selecting the best algorithm based on performance needs.
